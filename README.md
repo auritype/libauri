@@ -1,2 +1,2 @@
 # libauri
-The C ABI runtime for Lingfeng Input Method.
+The C ABI runtime for Auritype IMEs.
